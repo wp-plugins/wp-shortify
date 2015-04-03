@@ -2,7 +2,7 @@
 /*
 Plugin Name: Shortify
 Description: Shortify allows you to track, in real-time, the clicks and referrers on any shortened URL - a perfect tool to help you understand what appeals to your audience and to help you optimize your social, email, and other click-through Within Wordpress.
-Version: 1.0.0
+Version: 1.0.1
 Author: Khubbaib
 Author URI: http://khubbaib.com
 Text Domain: wp-shortify
