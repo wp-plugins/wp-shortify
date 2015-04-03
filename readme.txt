@@ -1,4 +1,4 @@
-﻿=== WP shortify--- shortener URL with goo.gl  ===
+﻿=== WP Shortify - Shortener URL with goo.gl  ===
 Contributors: khubbaib
 Donate link: http://khubbaib.com/
 Tags: post, analytics, stats, short, URL stats,click stats,post analytics.goo.gl.google
@@ -78,7 +78,7 @@ This plugin generate the url with goo.gl so you must be connect with google to g
 
 == Changelog ==
 
-= 1.0.0 - 2015-03-13 =
+= 1.0.0 - 2015-04-03 =
 * Initial Release.
 
 
