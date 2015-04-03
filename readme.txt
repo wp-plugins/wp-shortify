@@ -15,7 +15,7 @@ Shortify allows you to track, in real-time, the clicks and referrers on any shor
 
 [WP shortify](http://websolutionsoft.com/demo/) - Shortify allows you to track, in real-time, the clicks and referrers on any shortened URL - a perfect tool to help you understand what appeals to your audience and to help you optimize your social, email, and other click-through Within Wordpress.
 
-You can read the guide [here](http://khubbaib.com/how-to-get-oauth-information-for-google/ )for adding your google client information.
+You can read the guide [here](http://khubbaib.com/how-to-get-oauth-information-for-google/ ) for adding your google client information.
 
 
 **[PRO Version]** Would you like to see new features? Email me at khubbaib@gmail.com.
