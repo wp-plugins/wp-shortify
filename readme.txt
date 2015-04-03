@@ -72,9 +72,15 @@ This plugin generate the url with goo.gl so you must be connect with google to g
 
 == Screenshots ==
 
-1. Under post edit screen stats.
-2. Dashboard.
-3. Front end share links.
+1. Under post edit screen stats (Browser).
+2. Under post edit screen stats (Country).
+3. Dashboard All short URLS.
+4. Under post edit screen Short URL info.
+5. Under post edit screen stats (over all Clicks).
+6. Under post edit screen stats (Platform stats).
+7. Connect with google copy the code.
+8. Connect with google paste code.
+9. Connect with google allow.
 
 == Changelog ==
 
