@@ -73,11 +73,11 @@
   */
   if (isset($_POST[ 'save_google_settings' ])) {
 
-    update_option( 'google_client_id',      sanitize_text_field($_POST['google_client_id']));
+    update_option( 'wp_shortify_client_id',      sanitize_text_field($_POST['google_client_id']));
 
-    update_option( 'google_client_secret',  sanitize_text_field($_POST['google_client_secret']));
+    update_option( 'wp_shortify_client_secret',  sanitize_text_field($_POST['google_client_secret']));
 
-    update_option( 'google_api_key',        sanitize_text_field($_POST['google_api_key']));
+    update_option( 'wp_shortify_api_key',        sanitize_text_field($_POST['google_api_key']));
 
     $update_msg = 'Google Client Information has been Saved.';
 
@@ -262,19 +262,19 @@
                 <tr>
                   <td width="115"><?php _e( 'CLIENT ID:' ,'wp-shortify')?></td>
                       <td width="877">
-                          <input type="text" name="google_client_id" value="<?php echo get_option( 'google_client_id' ) ?>" style="width:534px;"/> 
+                          <input type="text" name="google_client_id" value="<?php echo get_option( 'wp_shortify_client_id' ) ?>" style="width:534px;"/> 
                       </td>
                 </tr>
                 <tr>
                       <td><?php _e('CLIENT SECRET:','wp-shortify')?> </td>
                       <td>
-                        <input type="text" name="google_client_secret" value="<?php echo get_option( 'google_client_secret' ) ?>" style="width:534px;"/>
+                        <input type="text" name="google_client_secret" value="<?php echo get_option( 'wp_shortify_client_secret' ) ?>" style="width:534px;"/>
                       </td>
                 </tr>
                 <tr>
                       <td><?php _e('API KEY:','wp-shortify')?> </td>
                       <td>
-                        <input type="text" name="google_api_key" value="<?php echo get_option( 'google_api_key' ) ?>" style="width:534px;"/>
+                        <input type="text" name="google_api_key" value="<?php echo get_option( 'wp_shortify_api_key' ) ?>" style="width:534px;"/>
                       </td>
                 </tr>
                 <tr>
