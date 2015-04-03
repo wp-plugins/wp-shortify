@@ -259,6 +259,13 @@
        <form action="" method="post" name="auth_form" id="auth_form">
             <table width="1004" class="form-table">
               <tbody>
+              <tr>
+                <td></td>
+                  
+                <td>
+                  <p class="description"> To fully enjoy this plugin, you need to create a Project in Google <a target="_blank" href="https://console.developers.google.com/project">Console</a>. Read this simple 3 minutes <a target="_blank" href="http://wp-analytify.com/google-api-tutorial">Guide post</a> to get your ClientID, Client Secret and API Key and enter them in below inputs.</p>
+                </td>
+              </tr>
                 <tr>
                   <td width="115"><?php _e( 'CLIENT ID:' ,'wp-shortify')?></td>
                       <td width="877">
