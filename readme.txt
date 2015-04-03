@@ -87,6 +87,9 @@ This plugin generate the url with goo.gl so you must be connect with google to g
 = 1.0.0 - 2015-04-03 =
 * Initial Release.
 
+= 1.0.1 - 2015-04-03 =
+* Bug fixes
+
 
 == Donation ==
 
