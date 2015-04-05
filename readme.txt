@@ -1,4 +1,4 @@
-﻿=== WP Shortify - Shortener URL with goo.gl  ===
+﻿=== WP URLs Shortener + Social icons [Goo.gl]  ===
 Contributors: khubbaib
 Donate link: http://khubbaib.com/
 Tags: post, analytics, stats, short, URL stats,click stats,post analytics.goo.gl.google
