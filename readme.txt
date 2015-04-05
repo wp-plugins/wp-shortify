@@ -1,4 +1,4 @@
-﻿=== WP URLs Shortener + Social icons [Goo.gl]  ===
+﻿=== WP URLs Shortener + Social icons + Analytics[goo.gl]  ===
 Contributors: khubbaib
 Donate link: http://khubbaib.com/
 Tags: post, analytics, stats, short, URL stats,click stats,post analytics.goo.gl.google
