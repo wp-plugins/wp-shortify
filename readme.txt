@@ -52,7 +52,7 @@ This section describes how to install the plugin and get it working.
 
 = Modern Way: =
 1. Go to the WordPress Dashboard "Add New Plugin" section.
-2. Search For "WP shortify". 
+2. Search For "WP URLs Shortener 2015". 
 3. Install, then Activate it.
 
 = Old Way: =
